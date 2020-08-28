@@ -22,6 +22,7 @@ Your source of information about the most awesome RPG in the history of RPGs.
 - [Twitter](https://twitter.com/KAIKOgames) KAIKOgames,
 - [Instagram](https://www.instagram.com/thqnordic/) THQ Nordic,
 - [Facebook](https://www.facebook.com/THQNordic) THQ Nordic,
+- [YouTube](https://www.youtube.com/user/NordicgamesAT) THQ Nordic,
 
 ## Store
 
@@ -33,8 +34,15 @@ Your source of information about the most awesome RPG in the history of RPGs.
 - [Origin](https://www.origin.com/gbr/en-us/store/kingdoms-of-amalur-reckoning/kingdoms-of-amalur-reckoning/addon/kingdoms-of-amalur-reckoning--the-legend-of-dead-kel) Kingdoms of Amalur: Reckoning™ - The Legend of Dead Kel™,
 - [Origin](https://www.origin.com/gbr/en-us/store/kingdoms-of-amalur-reckoning/kingdoms-of-amalur-reckoning/addon/kingdoms-of-amalur-reckoning--teeth-of-naros) Kingdoms of Amalur: Reckoning™ - Teeth of Naros,
 
+## Mods
+
+- [Nexusmods](https://www.nexusmods.com/kingdomsofamalurreckoning) list of mods for the game,
+- [Reverse engineering](https://kender2.github.io/amalur/) research project,
+
 ## Other
 
+- [Interview](https://www.twitch.tv/videos/677362619) with Travis McGeathy (Rashere) from 38 Studios,
+- [Crafting components](https://docs.google.com/spreadsheets/d/1uFDGe-YYmy7tZbshacMM8_Q0P6dyR8vEbMfN-PJm5vo/edit#gid=130937468) list,
 - [Amalur Sanctum](http://amalursanctum.free.fr/index.php/misc/online-tools/abcalc/) build calculator,
 - [SteamCommunity](https://steamcommunity.com/app/1041720/discussions/0/2574320091931300237/) Kingdoms of Amalur: Re-Reckoning FAQ,
 - [Artworks](https://www.artstation.com/artwork/WKaRlQ) Alyn Shir statue artist's website,
@@ -42,6 +50,3 @@ Your source of information about the most awesome RPG in the history of RPGs.
 - [Pinterest](https://pl.pinterest.com/robinnorman8807/reckoning-kingdoms-of-amalur/) artworks,
 - [THQ Nordic](https://amalur.thqnordic.com/) official game site,
 - [Level map](https://i.imgur.com/VDxOH.jpg) level ranges for all maps in the game,
-
-
-
