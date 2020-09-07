@@ -6,6 +6,7 @@ Your source of information about the most awesome RPG in the history of RPGs.
 
 - [Steam](https://store.steampowered.com/newshub/app/1041720/view/2503387602390284347) Kingdoms of Amalur: Re-Reckoning Coming September 8th! New Expansion Fatesworn Announced,
 - [SP1ST](https://sp1st.com/news/kingdoms-of-amalur-re-reckoning-trophy-list-and-day-one-patch-revealed) Trophy List And Day One Patch Revealed,
+- [THQ Nordic](https://thqnordic.com/article/faq-kingdoms-amalur-re-reckoning) official ReReckoning FAQ,
 
 ## Videos
 
@@ -56,6 +57,10 @@ Your source of information about the most awesome RPG in the history of RPGs.
 - [Crafting components](https://docs.google.com/spreadsheets/d/1uFDGe-YYmy7tZbshacMM8_Q0P6dyR8vEbMfN-PJm5vo/edit#gid=130937468) list,
 - [Amalur Sanctum](http://amalursanctum.free.fr/index.php/misc/online-tools/abcalc/) build calculator,
 - [Level map](https://i.imgur.com/VDxOH.jpg) level ranges for all maps in the game,
+- [Interactive map](http://vitaln.com/ehalos/amalur/map.html) of Amalur,
+- [The Forge of Marcus de Roth](http://vitaln.com/ehalos/amalur/) crafting simulator,
+- [MinMaxing & Questing tips](https://docs.google.com/document/d/1KdwIGEuZ5bOBJCQQxRUXQelN05-9IeEQ4aGxsRBNozQ/edit) Google document,
+- [Old crafting guide](https://imgur.com/gallery/496KFV4) as Imgur images,
 
 ## Other
 
@@ -66,4 +71,7 @@ Your source of information about the most awesome RPG in the history of RPGs.
 - [38 Studios](https://www.hgpauction.com/auctions/29297/38-studios/) auction information,
 - [Fan](http://www.reckoningthegame.com/) site,
 - [Official site](http://amalur.com/) now defunct,
-- [WebArchive](https://web.archive.org/web/20120527110908/http://www.amalur.com/history/deep-gloam) of the amalur.com website.
+- [WebArchive](https://web.archive.org/web/20120527110908/http://www.amalur.com/history/deep-gloam) of the amalur.com website,
+- [Project Copernicus](https://kotaku.com/the-trailer-you-werent-supposed-to-see-for-a-game-youll-5924410) trailer,
+- [The Forge of Marcus de Roth](https://itnkd4iam.wordpress.com/2012/04/14/kingdoms-of-amalur-reckoning-interactive-blacksmith-forge/) blog post,
+- [Interactive Map of Faelands](https://itnkd4iam.wordpress.com/2012/05/17/kingdoms-of-amalur-interactive-map-of-the-faelands/) blog post.
