@@ -52,6 +52,13 @@ Your source of information about the most awesome RPG in the history of RPGs.
 - [Poster](https://posterspy.com/posters/kingdoms-of-amalur-reckoning/) from the game,
 - [Concept art](https://www.creativeuncut.com/gallery-20/koar-creature-concept.html) from the game,
 - [DeviantArt](https://www.deviantart.com/gorrem/art/KoA-Reckoning-Alyn-Shir-279175359) gallery,
+- [The Long Knives of Alyn Shir](https://www.deviantart.com/gorrem/art/The-Long-Knives-of-Alyn-Shir-Assassination-334158697) - Assassination,
+- [Dragon Scale Chakrams](https://www.deviantart.com/alphaprimesaviour/art/Dragon-Scale-Chakrams-734367297),
+- [Alyn Shir](https://www.deviantart.com/synczoid/art/LineArt-Alyn-299763042) drawing,
+- [Kolossae](https://www.deviantart.com/gorrem/art/Amalur-Kollossae-336498013),
+- [Amalur Fae](https://www.deviantart.com/isriana/art/Amalur-Fae-Speedpaintings-301419085) Speedpaintings,
+- [Boggart](https://www.deviantart.com/thednightshade/art/Boggart-384061558),
+- [Crudok](https://www.deviantart.com/notesz/art/Crudok-620781035),
 
 ## Data
 
@@ -63,6 +70,7 @@ Your source of information about the most awesome RPG in the history of RPGs.
 - [MinMaxing & Questing tips](https://docs.google.com/document/d/1KdwIGEuZ5bOBJCQQxRUXQelN05-9IeEQ4aGxsRBNozQ/edit) Google document,
 - [Old crafting guide](https://imgur.com/gallery/496KFV4) as Imgur images,
 - [IGN](https://www.ign.com/wikis/kingdoms-of-amalur-reckoning) Wiki Guide,
+- [Two3Delta’s guide](https://docs.google.com/document/d/1Y09HtllUs3rf8Xa69ig-gi-U-NlzmKwUvalr2PMu1w8/edit) to min-maxing skills,
 
 ## Other
 
