@@ -7,6 +7,7 @@ Your source of information about the most awesome RPG in the history of RPGs.
 - [Steam](https://store.steampowered.com/newshub/app/1041720/view/2503387602390284347) Kingdoms of Amalur: Re-Reckoning Coming September 8th! New Expansion Fatesworn Announced,
 - [SP1ST](https://sp1st.com/news/kingdoms-of-amalur-re-reckoning-trophy-list-and-day-one-patch-revealed) Trophy List And Day One Patch Revealed,
 - [THQ Nordic](https://thqnordic.com/article/faq-kingdoms-amalur-re-reckoning) official ReReckoning FAQ,
+- [UK Charts](https://www.gamesindustry.biz/articles/2020-09-14-avengers-holds-no-1-as-kingdoms-of-amalur-returns-to-top-five-uk-charts) Kingdoms of Amalur returns to Top Five,
 
 ## Videos
 
@@ -14,6 +15,7 @@ Your source of information about the most awesome RPG in the history of RPGs.
 - [YouTube, MrMattyPlays](https://www.youtube.com/watch?v=BKs3Kh2vE8Q) Kingdoms Of Amalur remaster info blowout,
 - [Interview](https://www.twitch.tv/videos/677362619) with Travis McGeathy (Rashere) from 38 Studios,
 - [YouTube, Caedo Genesis](https://www.youtube.com/watch?v=8I0oohzuecs) 10+ tips & tricks I wish I knew (basics / advanced),
+- [Angry Joe](https://www.youtube.com/watch?v=6C43RMBx9wQ) Kingdoms of Amalur angry review,
 
 ## Social
 
@@ -43,6 +45,9 @@ Your source of information about the most awesome RPG in the history of RPGs.
 - [Nexusmods](https://www.nexusmods.com/kingdomsofamalurreckoning) list of mods for the game,
 - [Reverse engineering](https://kender2.github.io/amalur/) research project,
 - [Cheat Engine](https://fearlessrevolution.com/viewtopic.php?f=4&t=13675) trainer scripts,
+- [GitHub](https://github.com/mburbea/koar-item-editor) repository of the game's save editor,
+- [GitHub](https://github.com/atom0s/depak) game PAK file dumper,
+- [Ysa](https://steamcommunity.com/app/102500/discussions/0/350540780273862290/) Heartcore Mod,
 
 ## Art
 
@@ -62,10 +67,12 @@ Your source of information about the most awesome RPG in the history of RPGs.
 - [Boggart](https://www.deviantart.com/thednightshade/art/Boggart-384061558),
 - [Crudok](https://www.deviantart.com/notesz/art/Crudok-620781035),
 - [Might and Magic](https://i.redd.it/klkh7fnqclm51.jpg),
+- [Ljosalfar](https://i.pinimg.com/originals/f0/6a/09/f06a0978edea946c19ba03e0c287512a.jpg) ice portrait,
 
 ## Data
+## Guides
 
-- [Crafting components](https://docs.google.com/spreadsheets/d/1uFDGe-YYmy7tZbshacMM8_Q0P6dyR8vEbMfN-PJm5vo/edit#gid=130937468) list,
+- [Crafting components](https://docs.google.com/spreadsheets/d/1uFDGe-YYmy7tZbshacMM8_Q0P6dyR8vEbMfN-PJm5vo/edit) list,
 - [Amalur Sanctum](http://amalursanctum.free.fr/index.php/misc/online-tools/abcalc/) build calculator,
 - [Level map](https://i.imgur.com/VDxOH.jpg) level ranges for all maps in the game,
 - [Interactive map](http://vitaln.com/ehalos/amalur/map.html) of Amalur,
@@ -77,9 +84,15 @@ Your source of information about the most awesome RPG in the history of RPGs.
 - [Crafting guide](https://gamefaqs.gamespot.com/xbox360/991144-kingdoms-of-amalur-reckoning/faqs/63832) by the_requiem,
 - [Flawless component farming](https://gamefaqs.gamespot.com/boards/991143-kingdoms-of-amalur-reckoning/62513579) guide,
 - [MixMaxing and questing](https://docs.google.com/document/d/1nChMBkkCz1vADCPjMmYvUSF0SzLBZm9jALWG_Q5YG1k/edit) tips,
+- [All possible items](https://docs.google.com/spreadsheets/d/11rhFQo9EsLESFthEY-GiwOLirVuCtn0wZcRksX3Zbjk/edit) in the game,
+- [Gems](https://docs.google.com/spreadsheets/d/1FJIuutgkaipBlTRYkulXJOa8acSaYrE_2EHlJ1UiYAc/edit) and their buffs,
+- [Deadzones and Camera Smoothing](https://www.reddit.com/r/kingdomsofamalur/comments/isy5rh/kingdoms_of_amalur_deadzones_and_camera_smoothing/) Improvement Requests,
 
 ## Other
 
+- [Steam Charts](https://steamcharts.com/search/?q=amalur) of Amalur games,
+- [ProtonDB](https://www.protondb.com/app/1041720) platinum rating,
+- [Workaround](https://www.trueachievements.com/forum/viewthread.aspx?tid=1225921) Teeth of Naros - Nerotelos crash,
 - [SteamCommunity](https://steamcommunity.com/app/1041720/discussions/0/2574320091931300237/) Kingdoms of Amalur: Re-Reckoning FAQ,
 - [THQ Nordic](https://amalur.thqnordic.com/) official game site,
 - [Project Copernicus](http://www.digitalexperiments.com/blog/28-fasttravel) travel mechanism,
