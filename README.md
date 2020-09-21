@@ -8,6 +8,10 @@ Your source of information about the most awesome RPG in the history of RPGs.
 - [SP1ST](https://sp1st.com/news/kingdoms-of-amalur-re-reckoning-trophy-list-and-day-one-patch-revealed) Trophy List And Day One Patch Revealed,
 - [THQ Nordic](https://thqnordic.com/article/faq-kingdoms-amalur-re-reckoning) official ReReckoning FAQ,
 - [UK Charts](https://www.gamesindustry.biz/articles/2020-09-14-avengers-holds-no-1-as-kingdoms-of-amalur-returns-to-top-five-uk-charts) Kingdoms of Amalur returns to Top Five,
+- [OpenCritic](https://opencritic.com/game/9594/kingdoms-of-amalur-re-reckoning) reviews of Re-Reckoning,
+- [IGN](https://www.ign.com/articles/kingdoms-of-amalur-re-reckoning-review) review,
+- [GodIsAGeek](https://www.godisageek.com/reviews/kingdoms-of-amalur-re-reckoning-review/) review,
+- [TheSixthAxis](https://www.thesixthaxis.com/2020/09/07/kingdoms-of-amalur-re-reckoning-review/) review,
 
 ## Videos
 
@@ -34,6 +38,7 @@ Your source of information about the most awesome RPG in the history of RPGs.
 
 - [GOG](https://www.gog.com/game/kingdoms_of_amalur_rereckoning) Kingdoms of Amalur: Re-Reckoning,
 - [Steam](https://store.steampowered.com/app/1041720/Kingdoms_of_Amalur_ReReckoning/) Kingdoms of Amalur: Re-Reckoning,
+- [Epic](https://www.epicgames.com/store/en-US/product/kingdoms-of-amalur-re-reckoning/home) Kingdoms of Amalur: Re-Reckoning,
 - [Steam](https://store.steampowered.com/app/102500/Kingdoms_of_Amalur_Reckoning/) Kingdoms of Amalur: Reckoning™,
 - [Origin](https://www.origin.com/gbr/en-us/store/kingdoms-of-amalur-reckoning/kingdoms-of-amalur-reckoning) Kingdoms of Amalur: Reckoning™,
 - [Origin](https://www.origin.com/gbr/en-us/store/kingdoms-of-amalur-reckoning/kingdoms-of-amalur-reckoning/addon/kingdoms-of-amalur-reckoning--weapons--armor-bundle-downloadable-content) Kingdoms of Amalur: Reckoning™ - Weapons & Armor Bundle,
@@ -72,6 +77,7 @@ Your source of information about the most awesome RPG in the history of RPGs.
 ## Data
 ## Guides
 
+- [Amalur crafting](https://docs.google.com/spreadsheets/d/1oWqhnP-ZN04PcrqMM7_1FCspI_lCBi2NRT4zCPcproo/edit) combinations,
 - [Crafting components](https://docs.google.com/spreadsheets/d/1uFDGe-YYmy7tZbshacMM8_Q0P6dyR8vEbMfN-PJm5vo/edit) list,
 - [Amalur Sanctum](http://amalursanctum.free.fr/index.php/misc/online-tools/abcalc/) build calculator,
 - [Level map](https://i.imgur.com/VDxOH.jpg) level ranges for all maps in the game,
@@ -87,6 +93,7 @@ Your source of information about the most awesome RPG in the history of RPGs.
 - [All possible items](https://docs.google.com/spreadsheets/d/11rhFQo9EsLESFthEY-GiwOLirVuCtn0wZcRksX3Zbjk/edit) in the game,
 - [Gems](https://docs.google.com/spreadsheets/d/1FJIuutgkaipBlTRYkulXJOa8acSaYrE_2EHlJ1UiYAc/edit) and their buffs,
 - [Deadzones and Camera Smoothing](https://www.reddit.com/r/kingdomsofamalur/comments/isy5rh/kingdoms_of_amalur_deadzones_and_camera_smoothing/) Improvement Requests,
+- [List](https://gist.github.com/mburbea/fbbc5e4f99d0158091795bb0a7d461fc) of items that drop only once,
 
 ## Other
 
