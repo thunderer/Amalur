@@ -12,6 +12,9 @@ Your source of information about the most awesome RPG in the history of RPGs.
 - [IGN](https://www.ign.com/articles/kingdoms-of-amalur-re-reckoning-review) review,
 - [GodIsAGeek](https://www.godisageek.com/reviews/kingdoms-of-amalur-re-reckoning-review/) review,
 - [TheSixthAxis](https://www.thesixthaxis.com/2020/09/07/kingdoms-of-amalur-re-reckoning-review/) review,
+- [Sony Online Entertainment](https://www.eurogamer.net/articles/2014-02-11-soe-looked-multiple-times-at-buying-project-copernicus) looked multiple times at buying Project Copernicus,
+- [VG24/7](https://www.vg247.com/tag/project-copernicus/) news tag about Amalur,
+- [Unseen64](https://www.unseen64.net/2020/04/23/project-copernicus-38studios-mmo/) Project Copernicus history,
 
 ## Videos
 
@@ -48,6 +51,7 @@ Your source of information about the most awesome RPG in the history of RPGs.
 ## Mods
 
 - [Nexusmods](https://www.nexusmods.com/kingdomsofamalurreckoning) list of mods for the game,
+- [ModelSwapper](https://github.com/mburbea/ModelSwapper) tool to build mods,
 - [Reverse engineering](https://kender2.github.io/amalur/) research project,
 - [Cheat Engine](https://fearlessrevolution.com/viewtopic.php?f=4&t=13675) trainer scripts,
 - [GitHub](https://github.com/mburbea/koar-item-editor) repository of the game's save editor,
@@ -73,10 +77,16 @@ Your source of information about the most awesome RPG in the history of RPGs.
 - [Crudok](https://www.deviantart.com/notesz/art/Crudok-620781035),
 - [Might and Magic](https://i.redd.it/klkh7fnqclm51.jpg),
 - [Ljosalfar](https://i.pinimg.com/originals/f0/6a/09/f06a0978edea946c19ba03e0c287512a.jpg) ice portrait,
+- [38 Studios](https://www.behance.net/gallery/25829071/Web-Design-for-38-Studios-(2012)) original Amalur design,
+- [Reckoning DLC logo](https://www.behance.net/gallery/9332179/Kingdoms-of-Amalur-Reckoning-DLC-logo-design) design,
 
 ## Data
 ## Guides
 
+- [GameFAQs](https://gamefaqs.gamespot.com/ps3/991143-kingdoms-of-amalur-reckoning/faqs) guides,
+- [VentureBeat](https://venturebeat.com/2012/02/07/kingdoms-of-amalur-reckoning-game-guide/) game guide,
+- [Punching only](https://www.reddit.com/r/kingdomsofamalur/comments/ixoegr/punching_only_challenge_results_base_game_only/) challenge guide,
+- [Amalur](https://docs.google.com/spreadsheets/u/0/d/1BY4MPB_K_Vci8EbGg8wgHSZqLccSdJfTd0akoZLakVE/htmlview) buffs,
 - [Amalur crafting](https://docs.google.com/spreadsheets/d/1oWqhnP-ZN04PcrqMM7_1FCspI_lCBi2NRT4zCPcproo/edit) combinations,
 - [Crafting components](https://docs.google.com/spreadsheets/d/1uFDGe-YYmy7tZbshacMM8_Q0P6dyR8vEbMfN-PJm5vo/edit) list,
 - [Amalur Sanctum](http://amalursanctum.free.fr/index.php/misc/online-tools/abcalc/) build calculator,
@@ -97,11 +107,13 @@ Your source of information about the most awesome RPG in the history of RPGs.
 
 ## Other
 
+- [GOGDB](https://www.gogdb.org/product/1077045575) page for Re-Reckoning,
 - [Steam Charts](https://steamcharts.com/search/?q=amalur) of Amalur games,
 - [ProtonDB](https://www.protondb.com/app/1041720) platinum rating,
 - [Workaround](https://www.trueachievements.com/forum/viewthread.aspx?tid=1225921) Teeth of Naros - Nerotelos crash,
 - [SteamCommunity](https://steamcommunity.com/app/1041720/discussions/0/2574320091931300237/) Kingdoms of Amalur: Re-Reckoning FAQ,
 - [THQ Nordic](https://amalur.thqnordic.com/) official game site,
+- [Three design lessons](https://gamasutra.com/view/news/211522/Three_design_lessons_from_working_with_RPG_legend_Ken_Rolston.php) from working with RPG legend Ken Rolston,
 - [Project Copernicus](http://www.digitalexperiments.com/blog/28-fasttravel) travel mechanism,
 - [PlayStation](https://psnprofiles.com/trophies/11361-kingdoms-of-amalur-re-reckoning) trophies list,
 - [38 Studios](https://www.hgpauction.com/auctions/29297/38-studios/) auction information,
@@ -111,6 +123,12 @@ Your source of information about the most awesome RPG in the history of RPGs.
 - [Project Copernicus](https://kotaku.com/the-trailer-you-werent-supposed-to-see-for-a-game-youll-5924410) trailer,
 - [The Forge of Marcus de Roth](https://itnkd4iam.wordpress.com/2012/04/14/kingdoms-of-amalur-reckoning-interactive-blacksmith-forge/) blog post,
 - [Interactive Map of Faelands](https://itnkd4iam.wordpress.com/2012/05/17/kingdoms-of-amalur-interactive-map-of-the-faelands/) blog post.
+
+## Notes
+
+- Fateweaver cost formula is `(L * 256) * max(N, 1)` where `L` is current player level and `N` is the number of resets so far (at least 1). The cost is capped at 102400 after 10th or more resets.
+- The different types of savegames are distinguished by the first number. 0 is profile info, 1 is autosave, 5 are manual saves. Check the mod time to see which one you saved last.
+- Saves 1 is autosave, 2 is tutorial save. 3 is a slot for 'game beat'. 4 is quicksave, 5 are manual saves. 0 is all options that are not in personal.ini
 
 ## Game
 
