@@ -1,26 +1,31 @@
 # Kingdoms of Amalur - Potions & Recipes
 
-## Health & Mana
+## Health
 
-| Potion | Description | Ingredients |
-| ---    | ---         | ---         |
-| Minor Healing Potion        | Restores a small amount of your health.                       | 2x Black Cohosh<br />1x Embereyes                                                          |
-| Greater Healing Potion      | Restores a moderate amount of your health.                    | 3x Black Cohosh<br />2x Embereyes<br />1x Bloodroot                                        |
-| Master Healing Potion       | Restores a large amount of your health.                       | 3x Black Cohosh<br />2x Embereyes<br />1x Bloodroot<br />1x Essence of Fate                |
-| Minor Health Regen Potion   | Increases your health regeneration rate by a small amount.    | 2x Black Cohosh<br />1x Scarlet Flowstone                                                  |
-| Greater Health Regen Potion | Increases your health regeneration rate by a moderate amount. | 3x Black Cohosh<br />2x Scarlet Flowstone<br />1x Bloodroot                                |
-| Master Health Regen Potion  | Increases your health regeneration rate by a large amount.    | 3x Black Cohosh<br />2x Scarlet Flowstone<br />1x Bloodroot<br />1x Essence of Fate        |
-| Minor Mana Potion           | Restores a small amount of your mana.                         | 2x Softscrabble Powder<br />1x Embereyes                                                   |
-| Greater Mana Potion         | Restores a moderate amount of your mana.                      | 3x Softscrabble Powder<br />2x Embereyes<br />1x Bloodroot                                 |
-| Master Mana Potion          | Restores a large amount of your mana.                         | 3x Softscrabble Powder<br />2x Embereyes<br />1x Bloodroot<br />1x Essence of Fate         |
-| Minor Mana Regen Potion     | Increases your mana regeneration rate by a small amount.      | 2x Softscrabble Powder<br />1x Scarlet Flowstone                                           |
-| Greater Mana Regen Potion   | Increases your mana regeneration rate by a moderate amount.   | 3x Softscrabble Powder<br />2x Scarlet Flowstone<br />1x Bloodroot                         |
-| Master Mana Regen Potion    | Increases your mana regeneration rate by a large amount.      | 3x Softscrabble Powder<br />2x Scarlet Flowstone<br />1x Bloodroot<br />1x Essence of Fate |
+| Potion                      | Description                                                   | Ingredients                                                                         |
+|-----------------------------|---------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| Minor Healing Potion        | Restores a small amount of your health.                       | 2x Black Cohosh<br />1x Embereyes                                                   |
+| Greater Healing Potion      | Restores a moderate amount of your health.                    | 3x Black Cohosh<br />2x Embereyes<br />1x Bloodroot                                 |
+| Master Healing Potion       | Restores a large amount of your health.                       | 3x Black Cohosh<br />2x Embereyes<br />1x Bloodroot<br />1x Essence of Fate         |
+| Minor Health Regen Potion   | Increases your health regeneration rate by a small amount.    | 2x Black Cohosh<br />1x Scarlet Flowstone                                           |
+| Greater Health Regen Potion | Increases your health regeneration rate by a moderate amount. | 3x Black Cohosh<br />2x Scarlet Flowstone<br />1x Bloodroot                         |
+| Master Health Regen Potion  | Increases your health regeneration rate by a large amount.    | 3x Black Cohosh<br />2x Scarlet Flowstone<br />1x Bloodroot<br />1x Essence of Fate |
+
+## Mana
+
+| Potion                    | Description                                                 | Ingredients                                                                                |
+|---------------------------|-------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| Minor Mana Potion         | Restores a small amount of your mana.                       | 2x Softscrabble Powder<br />1x Embereyes                                                   |
+| Greater Mana Potion       | Restores a moderate amount of your mana.                    | 3x Softscrabble Powder<br />2x Embereyes<br />1x Bloodroot                                 |
+| Master Mana Potion        | Restores a large amount of your mana.                       | 3x Softscrabble Powder<br />2x Embereyes<br />1x Bloodroot<br />1x Essence of Fate         |
+| Minor Mana Regen Potion   | Increases your mana regeneration rate by a small amount.    | 2x Softscrabble Powder<br />1x Scarlet Flowstone                                           |
+| Greater Mana Regen Potion | Increases your mana regeneration rate by a moderate amount. | 3x Softscrabble Powder<br />2x Scarlet Flowstone<br />1x Bloodroot                         |
+| Master Mana Regen Potion  | Increases your mana regeneration rate by a large amount.    | 3x Softscrabble Powder<br />2x Scarlet Flowstone<br />1x Bloodroot<br />1x Essence of Fate |
 
 ## Skill
 
-| Potion | Description | Ingredients |
-| ---    | ---         | ---         |
+| Potion                     | Description                                          | Ingredients                                                                        |
+|----------------------------|------------------------------------------------------|------------------------------------------------------------------------------------|
 | Minor Alchemist's Art      | Temporarily increases your alchemy skill by 1.       | 1x Embereyes<br />1x Sky Blossom                                                   |
 | Greater Alchemist's Art    | Temporarily increases your alchemy skill by 2.       | 2x Embereyes<br />2x Sky Blossom<br />1x Bloodroot                                 |
 | Master Alchemist's Art     | Temporarily increases your alchemy skill by 3.       | 2x Embereyes<br />2x Sky Blossom<br />2x Bloodroot<br />1x Essence of Fate         |
@@ -51,8 +56,8 @@
 
 ## Resistance
 
-| Potion | Description | Ingredients |
-| ---    | ---         | ---         |
+| Potion                      | Description                                      | Ingredients                                                                        |
+|-----------------------------|--------------------------------------------------|------------------------------------------------------------------------------------|
 | Minor Bleeding Resistance   | Decreases bleeding damage received by 25%.       | -                                                                                  |
 | Greater Bleeding Resistance | Decreases bleeding damage received by 50%.       | -                                                                                  |
 | Master Bleeding Resistance  | Decreases bleeding damage received by 75%.       | 2x Ysa's Breath<br />2x Scarlet Flowstone<br />1x Seaflax<br />1x Essence of Fate  |
@@ -80,8 +85,8 @@
 
 ## Buffs
 
-| Potion | Description | Ingredients |
-| ---    | ---         | ---         |
+| Potion                          | Description                                                                                           | Ingredients                                                                          |
+|---------------------------------|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | Minor Blazing Salve             | Increases the damage you do with fire-based attacks: +10 Fire Damage, +25% Fire Damage                | 2x Tindertwig<br />1x Scarwood Bark                                                  |
 | Greater Blazing Salve           | Increases the damage you do with fire-based attacks: +20 Fire Damage, +50% Fire Damage                | 3x Tindertwig<br />2x Scarwood Bark<br />1x Bloodroot                                |
 | Master Blazing Salve            | Increases the damage you do with fire-based attacks: +30 Fire Damage, +75% Fire Damage                | -                                                                                    |
@@ -136,8 +141,8 @@
 
 ## Sentinel
 
-| Potion | Description | Ingredients |
-| ---    | ---         | ---         |
+| Potion                     | Description                                                     | Ingredients                                      |
+|----------------------------|-----------------------------------------------------------------|--------------------------------------------------|
 | Minor Burning Sentinel     | Temporarily gives a 50% chance to Burn enemies when attacked.   | 2x Tindertwig<br />1x Edelweiss                  |
 | Greater Burning Sentinel   | Temporarily gives a 60% chance to Burn enemies when attacked.   | 3x Tindertwig<br />2x Edelweiss<br />1x Seaflax  |
 | Master Burning Sentinel    | Temporarily gives a 75% chance to Burn enemies when attacked.   | -                                                |
@@ -150,24 +155,24 @@
 
 ## Primal (Teeth of Naros)
 
-| Potion | Description | Ingredients |
-| ---    | ---         | ---         |
-| Minor Primal Rush   | Temporarily grants 10 primal damage over 5 seconds. | - |
-| Greater Primal Rush | Temporarily grants 15 primal damage over 5 seconds. | - |
-| Master Primal Rush  | Temporarily grants 20 primal damage over 5 seconds. | - |
+| Potion              | Description                                         | Ingredients |
+|---------------------|-----------------------------------------------------|-------------|
+| Minor Primal Rush   | Temporarily grants 10 primal damage over 5 seconds. | -           |
+| Greater Primal Rush | Temporarily grants 15 primal damage over 5 seconds. | -           |
+| Master Primal Rush  | Temporarily grants 20 primal damage over 5 seconds. | -           |
 
 ## Phasewalk
 
-| Potion | Description | Ingredients |
-| ---    | ---         | ---         |
+| Potion            | Description                                | Ingredients                                                                           |
+|-------------------|--------------------------------------------|---------------------------------------------------------------------------------------|
 | Minor Phasewalk   | Renders the user invisible for a duration. | 2x Star Thistle<br />2x Sky Blossom<br />1x Cripplespore Caps                         |
 | Greater Phasewalk | Renders the user invisible for a duration. | 2x Star Thistle<br />2x Sky Blossom<br />1x Cripplespore Caps<br />1x Essence of Fate |
 | Master Phasewalk  | Renders the user invisible for a duration. | -                                                                                     |
 
 ## Other
 
-| Potion | Description | Ingredients |
-| ---    | ---         | ---         |
+| Potion              | Description                                                                                           | Ingredients                                             |
+|---------------------|-------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
 | Fate Potion         | A potion to instantly fill you with Fate energy.                                                      | 4x Essence of Fate                                      |
 | Purification Potion | Cures any non-magical diseases you may have and grants immunity to all diseases for a short duration. | 2x Embereyes<br />2x Ysa's Breath                       |
 | Liquid Seduction    | A potion to increase your persuasive skills with the opposite sex.                                    | 1x Scarwood Bark<br />1x Sky Blossom<br />1x Tindertwig |

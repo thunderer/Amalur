@@ -108,17 +108,29 @@
             </td>
             <td><b>Borm of Bowstings</b><br /><em>Hospitalis Quarters, Adessa Walls</em></td>
             <td>
-                <b>Tircnerani</b><br /><em>Dark Glow Caverns, south of Ariad Camp, Shadow Pass</em><br /><br />
+                <b>Ticnerani</b><br /><em>Dark Glow Caverns, south of Ariad Camp, Shadow Pass</em><br /><br />
                 <b style="color: #900;">Legend of Dead Kel</b><br /><b>Marten Strand</b><br /><em>after Zefwyn Lan Traveler Sloop / Merchant Vessel scouting mission</em>
             </td>
             <td><b><u>Going Rogue</u> or <u>The Purloined Letters</u> quest reward</b><br /><em>(along with Detect Hidden skill book, randomly for each quest)</em></td>
         </tr>
         <tr>
             <td>Random Book</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
+            <td style="text-align: center;">-</td>
+            <td style="text-align: center;">-</td>
+            <td style="text-align: center;">-</td>
             <td><b>Coilsbain Ruins, Coilsbain, Dalentarth</b><br /><em>during <u>The Natural Order</u> quest</em></td>
         </tr>
     </tbody>
+    <tfoot style="text-align: center; font-weight: bold;">
+        <tr>
+            <td rowspan="2">Skill</td>
+            <td>0-3</td>
+            <td>4-6</td>
+            <td>7-9</td>
+            <td rowspan="2">Book</td>
+        </tr>
+        <tr>
+            <td colspan="3">Levels</td>
+        <tr>
+    </tfoot>
 </table>

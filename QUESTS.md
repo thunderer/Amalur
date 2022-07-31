@@ -147,6 +147,67 @@
 - [&#x1F517;](https://amalur.fandom.com/wiki/The_Sewer_Run) The Sewer Run
 - [&#x1F517;](https://amalur.fandom.com/wiki/Will_and_Waters) Will and Waters
 
+## Fatesworn
+
+- [&#x1F517;](https://amalur.fandom.com/wiki/Unsettling_News) Unsettling News
+- [&#x1F517;](https://amalur.fandom.com/wiki/The_New_God) The New God
+- [&#x1F517;](https://amalur.fandom.com/wiki/Breaking_Fate) Breaking Fate
+- [&#x1F517;](https://amalur.fandom.com/wiki/Smuggler%27s_Run) Smuggler's Run
+- [&#x1F517;](https://amalur.fandom.com/wiki/Sins_of_the_Father) Sins of the Father
+- [&#x1F517;](https://amalur.fandom.com/wiki/The_Broken_Crown) The Broken Crown
+- [&#x1F517;](https://amalur.fandom.com/wiki/Crucible) Crucible
+- [&#x1F517;](https://amalur.fandom.com/wiki/Hope_of_the_Fatesworn) Hope of the Fatesworn
+- [&#x1F517;](https://amalur.fandom.com/wiki/New_Horizons) New Horizons
+
+### Faction: The Unbound
+
+- [&#x1F517;](https://amalur.fandom.com/wiki/A_Preordained_Encounter) A Preordained Encounter
+- [&#x1F517;](https://amalur.fandom.com/wiki/Mysterious_Monoliths) Mysterious Monoliths
+- [&#x1F517;](https://amalur.fandom.com/wiki/Ivan%E2%80%99s_Favor) Ivan’s Favor
+- [&#x1F517;](https://amalur.fandom.com/wiki/Lyenna%27s_Lullaby) Lyenna’s Lullaby
+- [&#x1F517;](https://amalur.fandom.com/wiki/The_Unbound) The Unbound
+- [&#x1F517;](https://amalur.fandom.com/wiki/The_Raid) The Raid
+
+### Side quests
+
+- A Small Favor
+- [&#x1F517;](https://amalur.fandom.com/wiki/An_Old_Bond) An Old Bond
+- [&#x1F517;](https://amalur.fandom.com/wiki/Beyond_the_Barricades) Beyond the Barricades
+- Chaos Matter Delivery
+- Crafting Made Simple
+- [&#x1F517;](https://amalur.fandom.com/wiki/False_Prophets) False Prophets
+- [&#x1F517;](https://amalur.fandom.com/wiki/Guard_Down) Guard Down
+- [&#x1F517;](https://amalur.fandom.com/wiki/Headhunters) Headhunters
+- [&#x1F517;](https://amalur.fandom.com/wiki/Heart_of_Chaos) Heart of Chaos
+- Invasive Species
+- Last Breath
+- [&#x1F517;](https://amalur.fandom.com/wiki/Lesson_of_the_Bones) Lesson of the Bones
+- [&#x1F517;](https://amalur.fandom.com/wiki/Listening_to_Echoes) Listening to Echoes
+- Lone Survivor
+- [&#x1F517;](https://amalur.fandom.com/wiki/Lucky_Charm) Lucky Charm
+- [&#x1F517;](https://amalur.fandom.com/wiki/Night_Barghest) Night Barghest
+- [&#x1F517;](https://amalur.fandom.com/wiki/Of_Life_and_Death) Of Life and Death
+- [&#x1F517;](https://amalur.fandom.com/wiki/Outcast%27s_Revenge) Outcast's Revenge
+- [&#x1F517;](https://amalur.fandom.com/wiki/Playing_Crownhold) Playing Crownhold
+- [&#x1F517;](https://amalur.fandom.com/wiki/Preparations) Preparations
+- [&#x1F517;](https://amalur.fandom.com/wiki/Rat_Plague) Rat Plague
+- [&#x1F517;](https://amalur.fandom.com/wiki/Stolen_Ticket) Stolen Ticket
+- [&#x1F517;](https://amalur.fandom.com/wiki/The_Cursed_Grove) The Cursed Grove
+- [&#x1F517;](https://amalur.fandom.com/wiki/The_Giant_Killer) The Giant Killer
+- [&#x1F517;](https://amalur.fandom.com/wiki/The_Sound_of_Mithros) The Sound of Mithros
+- [&#x1F517;](https://amalur.fandom.com/wiki/The_Taken) The Taken
+- [&#x1F517;](https://amalur.fandom.com/wiki/The_Tree_and_the_Branches) The Tree and the Branches
+
+### Tasks
+
+- [&#x1F517;](https://amalur.fandom.com/wiki/Antelope_Racing) Antelope Racing
+- [&#x1F517;](https://amalur.fandom.com/wiki/Chaos_Critter_Silk) Chaos Critter Silk
+- [&#x1F517;](https://amalur.fandom.com/wiki/Choice_Cuts) Choice Cuts
+- [&#x1F517;](https://amalur.fandom.com/wiki/Hearts_of_Chaos) Hearts of Chaos
+- [&#x1F517;](https://amalur.fandom.com/wiki/Niskaru_Fangs) Niskaru Fangs
+- [&#x1F517;](https://amalur.fandom.com/wiki/Payback) Payback
+- [&#x1F517;](https://amalur.fandom.com/wiki/Restorative_Tonic) Restorative Tonics
+
 ## Side Quests
 
 - [&#x1F517;](https://amalur.fandom.com/wiki/Behind_Bars) Behind Bars

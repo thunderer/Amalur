@@ -130,19 +130,40 @@ Your source of information about the most awesome RPG in the history of RPGs.
 - The different types of savegames are distinguished by the first number. 0 is profile info, 1 is autosave, 5 are manual saves. Check the mod time to see which one you saved last.
 - Saves 1 is autosave, 2 is tutorial save. 3 is a slot for 'game beat'. 4 is quicksave, 5 are manual saves. 0 is all options that are not in personal.ini
 
+# Secret Developer Room
+
+With Fatesworn expansion, there is a possibility to get into "developer room" which grants:
+
+- 3 additional backpacks (+30 slots),
+- monster summoning flute.
+
+> NOTE: You must do this before finishing the main game. When you obtain the first Fatesworn expansion quest, the boggart doll near _Aery_ will be inaccessible because of a tent in front of it.
+
+Find six boggart dolls in the following order, all of them should make a weird noise:
+- fast travel to _Agnur Farhal_, on the right side near the exit of its "valley",
+- underneath the tree "pass" in the middle of western Odarath,
+- at the entrance to the "valley" where _Aery_ (the Fae) overlooks _Gorhart_,
+- fast travel to _Agnur Farhal_ again, it will on the left just near the entrance,
+- near Druffalo before entering Gorhart village,
+- near the exit from _Allestar Tower_, where bear wanders on the left side.
+
+Look at this [Reddit thread](https://www.reddit.com/r/kingdomsofamalur/comments/rp0l3c/the_boggart_dolls_have_a_secret) for more information. [This image](https://imgur.com/a/VbXlCJx) shows more precise locations of boggart dolls.
+
 ## Game
 
 ### Backpacks
 
-| Name | Location | Price | Notes
-| --- | --- | --- | --- |
-| Rikka Egest | **The Corner Shop**<br />_Gorhart Village_ | 7500g | |
-| Riona Helt | **Asker's Alley**<br />_Ysa_ | 7200g | after _Old Friends, New Foes_ quest |
-| Wil Donall | **Scholia Arcana**<br />_Upper City, Rathir_ | 9375g | |
-| Senecer Macit | **Domus Politica**<br />_Adessa_ | 7800g | |
-| Illyn Doldran | **Mel Senshir** | 8750g | |
-| Ampelio | **Idylla Market**<br />Idylla | 6250g | <b style="color: #009;">Teeth of Naros</b> |
-| Calum Toomey | **Gravehal Keep** | - | <b style="color: #900;">Legend of Dead Kel</b>, after restoring Gravehal, does not do anything |
+| Name          | Location                                     | Price | Notes                                                                          |
+|---------------|----------------------------------------------|-------|--------------------------------------------------------------------------------|
+| Rikka Egest   | **The Corner Shop**<br />_Gorhart_           | 7500g |                                                                                |
+| Riona Helt    | **Asker's Alley**<br />_Ysa_                 | 7200g | after _Old Friends, New Foes_ quest                                            |
+| Wil Donall    | **Scholia Arcana**<br />_Upper City, Rathir_ | 9375g |                                                                                |
+| Senecer Macit | **Domus Politica**<br />_Adessa_             | 7800g |                                                                                |
+| Illyn Doldran | **Mel Senshir**                              | 8750g |                                                                                |
+| Ampelio       | **Idylla Market**<br />Idylla                | 6250g | <b style="color: #009;">Teeth of Naros</b>                                     |
+| Calum Toomey* | **Gravehal Keep**                            | -     | <b style="color: #900;">Legend of Dead Kel</b><br />_*removed in Re-Reckoning_ |
+| Dolan Hardy   | **Westroad**                                 | 3750g | <b style="color: #090;">Fatesworn</b>                                          |
+| Ferrin Shaw   | **Crownhold**<br />_Outside the gates_       | 3750g | <b style="color: #090;">Fatesworn</b>                                          |
 
 ### Trainers & Books
 
@@ -150,14 +171,14 @@ Moved to [separate location](SKILLS.md).
 
 ### Monsters
 
-| Color  | Level |
-| ---    | ---   |
+| Color  | Level                         |
+|--------|-------------------------------|
 | Purple | Unique, Champion, Boss, Quest |
-| Red    | +4 |
-| Orange | +3 |
-| White  | +2, +1 |
-| Green  | +0, -1, -2 |
-| Grey   | -3, -4, and lower |
+| Red    | +4                            |
+| Orange | +3                            |
+| White  | +2, +1                        |
+| Green  | +0, -1, -2                    |
+| Grey   | -3, -4, and lower             |
 
 ### Potions & Recipes
 
